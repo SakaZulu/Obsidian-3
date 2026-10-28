@@ -1,4 +1,4 @@
-# Obsidian-3
+# Obsidian-3 "Hidden Model"
 
 FrontierCode 2.0 data has a hidden model, "Obsidian 3": 46.8%, above #1 Opus 5.5 (45.5%).
 
